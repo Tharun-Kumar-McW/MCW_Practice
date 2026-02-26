@@ -1,0 +1,22 @@
+git init
+git status
+git add .
+git commit -m "type the msg"
+git restore --staged names.txt
+git log
+git reset __
+git stash
+git stash clear
+git stash pop
+git remote add origin URL
+git remote -v
+git push origin main
+git branch ___
+git checkout ___  / git switch __
+git merge
+git push -u origin main
+git clone URL
+git remote add upstream URL
+git fetch --all --prune
+git pull origin master
+git rebase -i __
